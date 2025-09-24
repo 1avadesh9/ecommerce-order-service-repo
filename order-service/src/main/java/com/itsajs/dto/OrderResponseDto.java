@@ -3,7 +3,7 @@ package com.itsajs.dto;
 import java.time.LocalDateTime;
 import java.util.List;
 
-import com.itsajs.model.OrderItem;
+import com.itsajs.entity.OrderItem;
 
 import lombok.Data;
 
